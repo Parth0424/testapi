@@ -1,0 +1,10 @@
+{
+    "fan_on": {
+      "user_input": ["fan on", "turn on fan", "switch on fan"],
+      "response": "Yes, the fan is now on."
+    },
+    "fan_off": {
+      "user_input": ["fan off", "turn off fan", "switch off fan"],
+      "response": "Yes, the fan is now off."
+    }
+  }
